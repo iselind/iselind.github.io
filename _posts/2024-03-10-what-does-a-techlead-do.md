@@ -5,11 +5,11 @@ featuredImage: /assets/images/techlead.jpg
 tags:
     - techlead
 ---
-A tech lead can tasked with many different tasks depending on the current needs
-of the employer. This means that a tech lead does not do the same things in all
-companies. The tech lead will interact with many different roles within the
-company, and sometimes outside the company. I'd like to describe to you how I
-approach the tech lead role. We'll end with looking at the most important
+A tech lead can be tasked with many different tasks depending on the current
+needs of the employer. This means that a tech lead does not do the same things
+in all companies. The tech lead will interact with many different roles within
+the company, and sometimes outside the company. I'd like to describe to you how
+I approach the tech lead role. We'll end with looking at the most important
 skills of a tech lead.
 
 In broad terms I interact with the following roles
