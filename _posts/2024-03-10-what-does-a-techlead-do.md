@@ -1,9 +1,10 @@
 ---
 layout: post
 title: What does a tech lead do?
-featuredImage: /assets/images/techlead.jpg
+categories:
+  - tech lead
 tags:
-    - techlead
+  - tech lead
 ---
 A tech lead can be tasked with many different tasks depending on the current
 needs of the employer. This means that a tech lead does not do the same things
@@ -82,4 +83,4 @@ want to be listened to and have the opportunity to vent some frustration.
 ## The rest of my time
 When not doing the above mentioned tasks I focus on improving the code base the developers work in. This could involve enabling better ways of testing or upgrading packages or language version. It could also revolve around planning ahead for scalability or managing vulnerabilities.
 
-When not doing that I review changes either by picking some at random or because I was invited to review the change. If you are curious about my thoughts on reviewing, take a look at [my post on approaching reviews](/2024/03/16/approaching-reviewing).
+When not doing that I review changes either by picking some at random or because I was invited to review the change. If you are curious about my thoughts on reviewing, take a look at [my post on approaching reviews]({% post_url 2024-03-16-approaching-reviewing %}).
