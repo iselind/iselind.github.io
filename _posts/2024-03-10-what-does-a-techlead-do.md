@@ -70,11 +70,16 @@ tech lead.
 - Admitting faults
 - Admitting not knowing
 
-Nothing will grow your good will and impact as well as masting those three skills.
+Nothing will grow your good will and impact as well as mastering those three skills.
 
 Admitting you messed up and that you do not know the answer to that particular
 questions lets those around you see that you are human.
 
 Being able to listen before you speak helps you not only understand what the
 problem really is, you also see if the one you talk to want a solution or just
-want to be listened to and have the oppertunity to vent some frustration.
+want to be listened to and have the opportunity to vent some frustration.
+
+# The rest of my time
+When not doing the above mentioned tasks I focus on improving the code base the developers work in. This could involve enabling better ways of testing or upgrading packages or language version. It could also revolve around planning ahead for scalability or managing vulnerabilities.
+
+When not doing that I review changes either by picking some at random or because I was invited to review the change. If you are curious about my thoughts on reviewing, take a look at [my post on approaching reviews](/2024/03/16/approaching-reviewing).
