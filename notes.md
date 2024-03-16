@@ -4,3 +4,5 @@ these are the things I feel are missing that I want to have fixed before publish
 - Write the About page
 - Get Disqus commenting started
 - Add stuff for Google Analytics and Search Console
+
+This should not dissuade me from version controlling this repo in a properly named repository on Github.
