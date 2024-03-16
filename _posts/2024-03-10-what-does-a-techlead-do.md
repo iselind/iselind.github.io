@@ -1,8 +1,6 @@
 ---
 layout: post
 title: What does a tech lead do?
-categories:
-  - tech lead
 tags:
   - tech lead
 ---
