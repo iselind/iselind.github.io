@@ -25,6 +25,9 @@ url: "https://iselind.github.io" # the base hostname & protocol for your site, e
 github_username:  iselind
 linkedin_username: patrik-iselind
 
+# Google Analytics
+google_analytics: G-WR5DBCS6Q8
+
 disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
