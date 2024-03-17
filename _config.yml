@@ -21,9 +21,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   I'd appreciate hearing from you if you are helped by my posts.
   Let's learn together!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "iselind-github-io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  iselind
 linkedin_username: patrik-iselind
+
+disqus:
+  # Leave shortname blank to disable comments site-wide.
+  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+  shortname: iselind-github-io
 
 # Build settings
 markdown: kramdown
