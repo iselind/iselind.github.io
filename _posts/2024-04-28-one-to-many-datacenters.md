@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scaling Out: Transitioning Your Storage from One Data Center to Multiple
+title: Scaling Out - Transitioning Your Storage from One Data Center to Multiple
 ---
 Your project have been deployed in one data center since the start. Due to operational concerns you are now investigating deploying your project in multiple data centers. How does this affect your storage solution?
 
